@@ -1,0 +1,15 @@
+{
+  "name": "ember-quickstart",
+  "dependencies": {
+    "polymer": "1.9.1",
+    "webcomponentsjs": "0.7.24",
+    "paper-button": "PolymerElements/paper-button#^2.0.0",
+    "paper-input": "PolymerElements/paper-input#^2.0.0",
+    "paper-card": "PolymerElements/paper-card#2.0.0",
+    "cells-percentage-bar": "ssh://globaldevtools.bbva.com:7999/CC/cells-percentage-bar.git#^9.0.1",
+    "cells-3d-horizontal-bar-chart": "^10.0.1",
+    "cells-login-view": "^10.1.4",
+    "cells-credentials-form": "^10.1.1",
+    "cells-product-card": "ssh://globaldevtools.bbva.com:7999/cb/cells-product-card.git#^9.0.1"
+  }
+}

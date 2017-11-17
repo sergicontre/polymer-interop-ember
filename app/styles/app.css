@@ -1,0 +1,9 @@
+
+html {
+    --cells-3d-horizontal-bar-chart-background-color: #004481;
+    --cells-3d-horizontal-bar-chart-bar-left-color: #2DCCCD;
+    --cells-3d-horizontal-bar-chart-bar-right-color: #F4F4F4;
+    --cells-3d-horizontal-bar-chart-shadow-opacity: 0.3;
+    --cells-3d-horizontal-bar-chart-shadow-left-color: #FFFFFF;
+    --cells-3d-horizontal-bar-chart-shadow-right-color: #FFFFFF;
+}
